@@ -2,8 +2,12 @@ This is the initial version of the file.
 
 Except not because I've added this text.
 
+<<<<<<< HEAD
 Now I'm going to try to change something different on both branches.
 -> This causes an error and no update. But what happens when I pull after I've made changes?
 
 no keyword cause a failure because my local changes weren't commited or stashed.
 
+=======
+Okay--using pull without any more keywords when I didn't change anything on this branch just updates the file to the most recent on the remote repository.
+>>>>>>> a0ded0f6ea42465588858d2abafa1581810023d9
